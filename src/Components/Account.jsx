@@ -20,7 +20,9 @@ export default function Account(){
                     <br />
                     <input type="password" placeholder="Password" />
                     <br />
-                    <button className={style.btn2}>LOGIN</button>
+                   <Link to="/cart" className={style.btn2}>LOGIN</Link></div>
+        
+// <button className={style.btn2}>LOGIN</button>
                 </div>
             </div>
         </div>
