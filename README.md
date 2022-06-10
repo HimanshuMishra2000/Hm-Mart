@@ -2,7 +2,7 @@
 
 This project was created by me and all idea's from Ten Tree E-commerce website and created by me with my logic for cart and data API. Ten Tree is a Canada E-commerce website.
 
-View Project: <a href="hm-mart-aaq8frf4u-himanshumishra2000.vercel.app">Click here</a>
+View Project: <a href="https://hm-mart-aaq8frf4u-himanshumishra2000.vercel.app">Click here</a>
 
 # Tech Stack:
  - React
@@ -21,7 +21,7 @@ https://json-server-e-commerce-api.herokuapp.com/
 
 # Vercel Deploy Link
 
-Production: [hm-mart-aaq8frf4u-himanshumishra2000.vercel.app]
+Production: [https://hm-mart-aaq8frf4u-himanshumishra2000.vercel.app]
 
 
  ### Heroku Deploy Link
